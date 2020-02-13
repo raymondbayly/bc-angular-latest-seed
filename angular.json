@@ -1,6 +1,6 @@
 {
   "$schema": "./node_modules/@angular/cli/lib/config/schema.json",
-  "version": 1, 
+  "version": 1,
   "newProjectRoot": "projects",
   "projects": {
     "bc-seed": {
@@ -123,6 +123,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "bc-seed"
+    }
+  },
+  "defaultProject": "bc-seed",
+  "cli": {
+    "analytics": "068ce48a-34fd-44e0-a856-224836559d40"
+  }
 }
